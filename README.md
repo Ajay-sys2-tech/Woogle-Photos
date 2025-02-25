@@ -68,5 +68,16 @@ Ensure you have the following installed:
    ```
    npm run dev
    ```
- 
+
+ ### Screenshots of the live app
+ ![image](https://github.com/user-attachments/assets/02b2d315-f3ca-47e0-9c2f-5c32e9419ef3)
+ ![image](https://github.com/user-attachments/assets/a124cc90-d9bc-45d5-b2a5-4915af7aa42f)
+ ![image](https://github.com/user-attachments/assets/7a572009-c184-4711-ae52-9e3c336bcf31)
+ ![image](https://github.com/user-attachments/assets/31315414-2fe9-471b-968f-adc42a8ed008)
+ ![image](https://github.com/user-attachments/assets/baad8c20-5410-44ed-a495-dbb4d1a0d465)
+
+
+
+
+
 
