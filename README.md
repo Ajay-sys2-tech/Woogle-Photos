@@ -30,17 +30,18 @@ Ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd backend
+   ```
 2. Install backend dependencies:  ```bash
-  npm install
+  npm install ```
 3. Set up your Cloudinary credentials in the .env file: ```bash CLOUDINARY_CLOUD_NAME=your-cloud-name
 CLOUDINARY_API_KEY=your-api-key
-CLOUDINARY_API_SECRET=your-api-secret
-4. Start the backend server:
+CLOUDINARY_API_SECRET=your-api-secret```
+4. Start the backend server: ```bash
+   npm run dev ```
 
 ### Frontend Setup
-1. Navigate to the frontend directory:
-2. Install frontend dependencies:
-3. Start the frontend development server:
-  ```bash
-  npm install
+1. Navigate to the frontend directory: ```bash cd frontend ```
+2. Install frontend dependencies: ```bash npm install ```
+3. Start the frontend development server: ```bash npm run dev```
+ 
 
