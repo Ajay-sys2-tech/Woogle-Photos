@@ -35,8 +35,10 @@ Ensure you have the following installed:
    git clone <repository-url>
    cd backend
    ```
-2. Install backend dependencies:  ```
-  npm install ```
+2. Install backend dependencies:
+   ```
+     npm install
+   ```
 3. Set up your Cloudinary credentials in the .env file:
    ```
       CLOUDINARY_CLOUD_NAME=
