@@ -3,6 +3,7 @@ import axios from 'axios';
 // dotenv.config();
 const apiUrl = import.meta.env.VITE_API_BASE_URL;
 
+
 // Create an Axios instance with a base URL
 const api = axios.create({
   baseURL: apiUrl, // Replace with your backend URL
@@ -43,9 +44,9 @@ export const uploadFile = async (folderId, file, description) => {
 
         
         const res = await api.post(`/folders/${folderId}/files`, formData, {
-            headers: {
-                'Content-Type': 'multipart/form-data', 
-            },
+            // headers: {
+            //     'Content-Type': 'multipart/form-data', 
+            // },
         });
 
         return res.data;
